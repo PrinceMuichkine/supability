@@ -1,5 +1,5 @@
 # Supability
-A user-friendly app for tracking business expenses and revenue, designed to simplify financial management for entrepreneurs and small business owners.
+The open-source expense and revenue tracker for small businesses.
 
 ## How to use it locally
 1. Clone the project 
